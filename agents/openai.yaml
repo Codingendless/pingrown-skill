@@ -1,6 +1,6 @@
 interface:
   display_name: "一枚成就 · 今日成就"
-  short_description: "仅用于 Codex/ChatGPT，根据具体事件生成原版式的成就分享海报"
+  short_description: "仅用于 Codex/ChatGPT，默认无章海报，明确要求才加透明码章"
   default_prompt: "使用 $pingrown-skill：今日成就 我下班后跑完了人生第一个5公里"
 policy:
   allow_implicit_invocation: true
